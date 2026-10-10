@@ -1,140 +1,125 @@
-<!--
-  KOT JINGRWAI KHASI
-  Premium README — James Shylla
--->
-
 <div align="center">
 
-# ◈ KOT JINGRWAI KHASI ◈
+<img src="https://img.shields.io/badge/KJK--001-DIGITAL_HERITAGE-00FF88?style=for-the-badge&labelColor=050807" />
+
+# ⟡ KOT JINGRWAI KHASI
 
 ### `FAITH // LANGUAGE // MUSIC // TECHNOLOGY`
 
-**A digital home for Khasi Christian scripture, worship, and heritage.**
+**Preserving Khasi Christian heritage through digital innovation.**
 
-<br>
+<br/>
 
-[![Live Website](https://img.shields.io/badge/◉_LIVE_WEBSITE-Visit_Project-00C853?style=for-the-badge&labelColor=050807)](https://polite-puffpuff-4260a2.netlify.app/)
-[![Source Code](https://img.shields.io/badge/SOURCE_CODE-GitHub-00C853?style=for-the-badge&labelColor=050807)](https://github.com/Jamesshylla/kot-jingrwai-khasi)
+[![LIVE WEBSITE](https://img.shields.io/badge/◉_LIVE_WEBSITE-ACCESS_SYSTEM-00FF88?style=for-the-badge&labelColor=050807)](https://kot-jingrwai-khasi.jamesshylla01.workers.dev/)
+
+[![SOURCE CODE](https://img.shields.io/badge/SOURCE_CODE-GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=050807)](https://github.com/Jamesshylla/kot-jingrwai-khasi)
+[![CLOUDFLARE](https://img.shields.io/badge/DEPLOYMENT-CLOUDFLARE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=050807)](https://dash.cloudflare.com/)
 
 </div>
 
 ---
 
+## `01 // SYSTEM OVERVIEW`
+
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║  PROJECT     : KOT JINGRWAI KHASI                            ║
-║  DEVELOPER   : JAMES SHYLLA                                  ║
-║  DOMAIN      : FAITH • CULTURE • DIGITAL TECHNOLOGY          ║
-║  DIRECTIVE   : PRESERVE • CREATE • INSPIRE                   ║
-╚══════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────┐
+│  PROJECT      : KOT JINGRWAI KHASI                   │
+│  SYSTEM ID    : KJK-001                              │
+│  DEVELOPER    : JAMES SHYLLA                         │
+│  MISSION      : PRESERVE KHASI CHRISTIAN HERITAGE    │
+│  PLATFORM     : DIGITAL SCRIPTURE & HYMN LIBRARY     │
+│  HOSTING      : CLOUDFLARE WORKERS                   │
+└──────────────────────────────────────────────────────┘
 ```
 
-## `01` — THE VISION
+Kot Jingrw​​ai Khasi is a digital initiative dedicated to making Khasi Christian scripture, worship songs, and spiritual resources easier to explore through a modern web experience.
 
-**Kot Jingrw​​ai Khasi** is a digital project created to bring Khasi Christian Bible resources, hymns, and worship closer to the community.
+Built with a vision to connect **faith, language, music, and technology**, the project aims to help preserve and share Khasi Christian heritage with future generations.
 
-Built by **James Shylla**, the project combines technology with faith and cultural preservation, with the goal of making spiritual resources easier to discover, read, and share.
+> `PRESERVE THE HERITAGE. CONNECT THE GENERATIONS.`
 
-> *Preserving faith. Celebrating Khasi heritage. Connecting generations through technology.*
+## `02 // CORE MODULES`
 
-## `02` — THE EXPERIENCE
+| MODULE | PURPOSE |
+|---|---|
+| `BIBLE READER` | Digital access to available scripture content |
+| `HYMN ARCHIVE` | Khasi Christian songs and worship resources |
+| `TYNRAI & CHORUS` | Organized hymn collections |
+| `DIGITAL EXPERIENCE` | Modern interface for exploring spiritual resources |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ BIBLE LIBRARY
-
-Explore the scripture content available in the application through its digital reading experience.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ HYMN COLLECTION
-
-Discover Khasi Christian worship songs and the song categories included in the project.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ TYNRAI & CHORUS
-
-Navigate the available song collections and explore their organization.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ DIGITAL ACCESS
-
-Experience a modern interface designed to make spiritual resources easier to explore.
-
-</td>
-</tr>
-</table>
-
-## `03` — TECHNOLOGY MATRIX
+## `03 // TECHNOLOGY MATRIX`
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-050807?style=flat-square&logo=typescript&logoColor=00C853)
-![Vite](https://img.shields.io/badge/Vite-050807?style=flat-square&logo=vite&logoColor=00C853)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-050807?style=flat-square&logo=tailwindcss&logoColor=00C853)
-![pnpm](https://img.shields.io/badge/pnpm-050807?style=flat-square&logo=pnpm&logoColor=00C853)
+![React](https://img.shields.io/badge/REACT-050807?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-050807?style=for-the-badge&logo=typescript&logoColor=00FF88)
+![Vite](https://img.shields.io/badge/VITE-050807?style=for-the-badge&logo=vite&logoColor=00FF88)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-050807?style=for-the-badge&logo=tailwindcss&logoColor=00FF88)
+![pnpm](https://img.shields.io/badge/PNPM-050807?style=for-the-badge&logo=pnpm&logoColor=00FF88)
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-050807?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 </div>
 
-## `04` — DEVELOPER IDENTITY
+## `04 // LIVE PRODUCTION ENDPOINT`
+
+**PRIMARY ACCESS POINT**
 
 ```text
-> ACCESSING DEVELOPER PROFILE...
-> IDENTITY : JAMES SHYLLA
-> ROLE     : DEVELOPER / DIGITAL CREATOR
-> INTEREST : SOFTWARE • CYBERSECURITY • DIGITAL DESIGN
-> MISSION  : BUILD TECHNOLOGY WITH PURPOSE
-> STATUS   : ALWAYS LEARNING
+HTTPS://KOT-JINGRWAI-KHASI.JAMESSHYLLA01.WORKERS.DEV
 ```
 
-**James Shylla** is passionate about creating digital experiences that bring ideas to life and connect technology with meaningful community needs.
+- **Live website:** [Open Kot Jingrw​​ai Khasi ↗](https://kot-jingrwai-khasi.jamesshylla01.workers.dev/)
+- **Source repository:** [GitHub ↗](https://github.com/Jamesshylla/kot-jingrwai-khasi)
+- **Hosting platform:** [Cloudflare Workers ↗](https://dash.cloudflare.com/)
 
-This project reflects a broader vision: using modern digital tools to preserve language, support faith, and make cultural resources accessible to future generations.
+## `05 // DEVELOPER IDENTITY`
 
-## `05` — PROJECT ACCESS
+```bash
+$ whoami
+JAMES SHYLLA
 
-| Resource | Access |
-|---|---|
-| Live application | [Open Kot Jingrw​​ai Khasi ↗](https://polite-puffpuff-4260a2.netlify.app/) |
-| Source repository | [Explore on GitHub ↗](https://github.com/Jamesshylla/kot-jingrwai-khasi) |
-| Developer | James Shylla |
+$ mission
+Build technology with purpose.
 
-## `06` — CONTRIBUTION PROTOCOL
+$ interests
+> SOFTWARE DEVELOPMENT
+> CYBERSECURITY
+> DIGITAL DESIGN
+> CULTURAL PRESERVATION
 
-Ideas, corrections, and constructive suggestions are welcome.
+$ status
+ALWAYS LEARNING // ALWAYS BUILDING
+```
 
-1. Explore the project.
-2. Identify an improvement or issue.
-3. Open a GitHub issue to discuss your suggestion.
+James Shylla is the developer behind Kot Jingrw​​ai Khasi, bringing together an interest in technology and a vision for preserving faith, language, and cultural resources through digital innovation.
 
-## `07` — PROJECT PRINCIPLE
+## `06 // CONTRIBUTION PROTOCOL`
+
+Have an idea or suggestion?
+
+1. Explore the live application.
+2. Visit the GitHub repository.
+3. Open an issue describing the improvement.
+4. Share constructive feedback.
+
+**Repository:** [github.com/Jamesshylla/kot-jingrwai-khasi](https://github.com/Jamesshylla/kot-jingrwai-khasi)
+
+---
 
 <div align="center">
 
-### `BUILD WITH PURPOSE.`
+### `PRESERVE THE PAST. BUILD THE FUTURE.`
 
-**Faith. Language. Music. Technology.**
+**FAITH × LANGUAGE × MUSIC × TECHNOLOGY**
 
-*One meaningful digital experience at a time.*
-
-<br>
-
-`[ END OF TRANSMISSION ]`
+<br/>
 
 **ENGINEERED WITH PURPOSE BY JAMES SHYLLA**
 
+`[ END OF TRANSMISSION // KJK-001 ]`
+
 </div>
 
 ---
 
-<sub>Project documentation for Kot Jingrw​​ai Khasi. A license has not yet been specified; please contact the project owner regarding reuse and redistribution.</sub>
+<sub>Project documentation for Kot Jingrw​​ai Khasi. Features and availability may evolve. Contact the developer regarding licensing and redistribution.</sub>
