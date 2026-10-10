@@ -1,0 +1,21 @@
+{
+  "name": "website-workspace",
+  "private": true,
+  "packageManager": "pnpm@12.3.4",
+  "workspaces": [
+    "scripts",
+    "lib/*",
+    "artifacts/*"
+  ],
+  "scripts": {
+    "typecheck:libs": "tsc -b lib/db lib/api-client-react lib/api-zod"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  }
+}
